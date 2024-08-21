@@ -1,11 +1,10 @@
 ---
-title: Mark Dinn
-image: /images/authors/mark-dinn.jpg
+title: Kassen Kyocera
+image: /images/authors/logo.jpeg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
-  twitter: https://www.twitter.com/
   instagram: https://www.instagram.com/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Nama Brand Toko Printer Kyocera
