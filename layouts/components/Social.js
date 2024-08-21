@@ -27,10 +27,12 @@ import {
   IoLogoWhatsapp,
   IoLogoYoutube,
   IoMail,
+  IoLogoShopee,
 } from "react-icons/io5";
 
 const Social = ({ source, className }) => {
   const {
+    shopee,
     facebook,
     twitter,
     instagram,
@@ -83,6 +85,18 @@ const Social = ({ source, className }) => {
             rel="noopener noreferrer nofollow"
           >
             <IoLogoTwitter />
+          </a>
+        </li>
+      )}
+      {shopee && (
+        <li className="inline-block">
+          <a
+            aria-label="shopee"
+            href={shopee}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+          >
+            <IoLogoShopee />
           </a>
         </li>
       )}
