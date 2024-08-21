@@ -1,7 +1,7 @@
 ---
 title: "Maincharge 7105"
 description: "meta description"
-image: "/images/posts/MC-7105.jpg"
+image: "/images/posts/MC-7105.png"
 date: 2024-08-13
 draft: false
 authors: ["Cango"]
