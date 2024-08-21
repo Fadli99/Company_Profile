@@ -1,22 +1,13 @@
 ---
-title: "Why a balloon is a flexible bag that can be inflated with a gas"
+title: "Toner Kit 5275 Original"
 description: "meta description"
-image: "/images/posts/04.jpg"
-date: 2021-02-02
+image: "/images/posts/5275.png"
+date: 2024-08-13
 draft: false
-authors: ["Mark Dinn"]
-tags: ["Balloon", "Gas"]
-categories: ["Accessories"]
+authors: ["Cango"]
+tags: ["Tinta"]
+categories: ["Toner"]
 ---
 
-A balloon is a flexible bag that can be inflated with a gas, such as helium, hydrogen, nitrous oxide, oxygen, and air. For special tasks, balloons can be filled with smoke, liquid water, granular media, or light sources.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-### Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
->Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Toner Kit 5275 Original bisa digunakan untuk type mesin M6630Cidn / P6230CDN
+Link Shopee Toko Kassen Kyocera : https://bit.ly/3yKm7F0
