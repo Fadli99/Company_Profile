@@ -9,4 +9,5 @@ tags: ["Tinta"]
 draft: false
 ---
 
-Toner Kit 8349 digunakan untuk type Mesin Kyocera TasKalfa 2552/2553ci (Link Toko Shopee : https://bit.ly/3yKm7F0)
+Toner Kit 8349 digunakan untuk type Mesin Kyocera TasKalfa 2552/2553ci 
+Link Toko Shopee Kassen Kyocera : https://bit.ly/3yKm7F0
