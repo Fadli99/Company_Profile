@@ -4,7 +4,10 @@ meta_title: "About"
 image: "/images/kassen.png"
 layout: "about"
 draft: false
-
+# social sites
+social:
+  facebook: "https://www.facebook.com"
+  instagram: "https://www.instagram.com"
 ---
 
 TENTANG KASSEN KYOCERA
