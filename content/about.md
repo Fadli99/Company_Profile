@@ -1,7 +1,7 @@
 ---
 title: "Halo, Kassen Kyocera Menjual Berbagai Sparepart, Toner, dan Mesin Kyocera"
 meta_title: "About"
-image: "/images/kassen.png"
+image: "/images/kassen_kyocera.png"
 layout: "about"
 draft: false
 # social sites
