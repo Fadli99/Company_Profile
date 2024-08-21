@@ -9,5 +9,5 @@ tags: ["Sparepart"]
 categories: ["Sparepart"]
 ---
 
-Maincharge 7105 digunakan untuk Type Mesin TASKALFA 3010i
-
+Maincharge 7105 digunakan untuk Type Mesin TasKalfa 3010i
+Link Toko Shopee Kassen Kyocera: https://bit.ly/3yKm7F0
