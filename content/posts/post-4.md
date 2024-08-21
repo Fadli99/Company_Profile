@@ -1,7 +1,7 @@
 ---
 title: "Toner Kit 5275 Original"
 description: "meta description"
-image: "/images/posts/5275.png"
+image: "/images/posts/TK-5275.png"
 date: 2024-08-13
 draft: false
 authors: ["Cango"]
