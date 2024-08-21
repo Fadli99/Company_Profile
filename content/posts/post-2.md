@@ -1,22 +1,13 @@
 ---
-title: Why a balloon is a flexible bag
+title: Maintenance Kit-470
 description: "meta description"
-date: 2022-04-10
-image: "/images/posts/02.jpg"
-categories: ["development"]
-authors: ["John Doe"]
-tags: ["diy", "toy"]
+date: 2024-08-13
+image: "/images/posts/MK-470.png"
+categories: ["Sparepart"]
+authors: ["Cango"]
+tags: ["Sparepart"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Maintenance Kit-470 digunakan untuk type Mesin Kyocera TasKalfa 3010i 
+Link Toko Shopee Kassen Kyocera: https://bit.ly/3yKm7F0
