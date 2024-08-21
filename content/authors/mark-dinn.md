@@ -3,8 +3,7 @@ title: Kassen Kyocera
 image: /images/authors/logo.jpeg
 description: this is meta description
 social:
-  facebook: https://www.facebook.com/
-  instagram: https://www.instagram.com/
+  shopee: https://bit.ly/3yKm7F0/
 ---
 
 Nama Brand Toko Printer Kyocera
