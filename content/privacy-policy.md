@@ -29,5 +29,5 @@ Anda dapat mengatur browser Anda untuk menolak cookie, tetapi hal ini mungkin me
 Jika Anda memiliki pertanyaan atau kekhawatiran mengenai kebijakan privasi ini, silakan hubungi kami di:
 
 Kassen Kyocera
-Email: kassenkyocera@gmail.com
-Telepon: 0852-1953-4120
+- Email: kassenkyocera@gmail.com
+- Telepon: 0852-1953-4120
