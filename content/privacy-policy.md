@@ -1,30 +1,33 @@
 ---
-title: "Privacy"
+title: "Kebijakan Privasi"
 description: "this is meta description"
 draft: false
 ---
 
+Selamat datang di Kassen Kyocera, Kami berkomitmen untuk melindungi privasi Anda. Kebijakan privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda ketika Anda mengunjungi di situs web kami.
 
-#### Responsibility of Contributors
+#### Cara Kami Menggunakan Informasi Anda
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Kami menggunakan informasi pribadi Anda untuk:
+- Memproses dan mengelola pesanan Anda
+- Mengirimkan konfirmasi pesanan dan informasi terkait
+- Menyediakan layanan pelanggan
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+#### Berbagi Informasi dengan Pihak Ketiga
 
-#### Gathering of Personal Information
+Kami tidak menjual, memperdagangkan, atau menyewakan informasi pribadi Anda kepada pihak ketiga. Namun, kami dapat membagikan informasi Anda dengan:
+- Penyedia layanan pihak ketiga yang membantu kami dalam operasional bisnis, seperti pemrosesan pembayaran dan pengiriman.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Cookie dan Teknologi Pelacakan
 
-#### Protection of  Personal- Information
+Kami menggunakan cookie dan teknologi pelacakan serupa untuk meningkatkan pengalaman Anda di situs kami. Cookie adalah file kecil yang disimpan di perangkat Anda yang membantu kami:
+- Mengingat preferensi dan pengaturan Anda
+- Menganalisis penggunaan situs untuk meningkatkan layanan kami
+Anda dapat mengatur browser Anda untuk menolak cookie, tetapi hal ini mungkin mempengaruhi fungsionalitas situs web kami.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+#### Kontak Kami
+Jika Anda memiliki pertanyaan atau kekhawatiran mengenai kebijakan privasi ini, silakan hubungi kami di:
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
-
-#### Privacy Policy Changes
-
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+Kassen Kyocera
+Email: kassenkyocera@gmail.com
+Telepon: 0852-1953-4120
