@@ -10,4 +10,4 @@ draft: false
 ---
 
 Toner Kit 8329 Original digunakan untuk type Mesin Kyocera TasKalfa 2551ci 
-Link Toko Shopee Kassen Kyocera: https://bit.ly/3yKm7F0
+Link Produk di Toko Shopee Kassen Kyocera: bit.ly/3yPKgdx
