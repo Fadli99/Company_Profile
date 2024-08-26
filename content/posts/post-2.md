@@ -10,4 +10,4 @@ draft: false
 ---
 
 Maintenance Kit-470 digunakan untuk type Mesin Kyocera TasKalfa 3010i 
-Link Toko Shopee Kassen Kyocera: https://bit.ly/3yKm7F0
+Link Produk di Toko Shopee Kassen Kyocera: bit.ly/4fYVNHY
