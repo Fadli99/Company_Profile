@@ -1,12 +1,13 @@
 ---
-title: Toner Kit TK-8329 CMYK
+title: Toner Kit TK-8529 CMY
 description: "meta description"
 date: 2024-08-13
-image: "/images/posts/8329.png"
+image: "/images/posts/TK8529CMY.png"
 categories: ["Toner"]
 authors: ["Cango"]
 tags: ["Tinta"]
 draft: false
 ---
 
-Toner Kit 8329 digunakan untuk type Mesin Kyocera TasKalfa 2551ci (Link Toko Shopee : https://bit.ly/3yKm7F0)
+Toner Kit 8529 digunakan untuk type Mesin Kyocera TasKalfa 4052/4053ci 
+Link Produk di toko Shopee Kassen Kyocera: bit.ly/3Z0qbvQ
