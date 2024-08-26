@@ -1,7 +1,7 @@
 ---
 title: "Fixing Unit M2040/2540dn dan M2640idw"
 description: "meta description"
-image: "/images/posts/Fixing_Unit.jpg"
+image: "/images/posts/Fixing_Unit.png"
 date: 2024-08-13
 draft: false
 authors: ["Cango"]
