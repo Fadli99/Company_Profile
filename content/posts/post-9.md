@@ -9,5 +9,5 @@ tags: ["Tinta"]
 draft: false
 ---
 
-Toner Kit 8329 digunakan untuk type Mesin Kyocera TasKalfa 3050/3051ci & TasKalfa 3550/3551ci
+Toner Kit 8309 digunakan untuk type Mesin Kyocera TasKalfa 3050/3051ci & TasKalfa 3550/3551ci
 Link Produk di Toko Shopee Kassen Kyocera: bit.ly/4fWjW1Z
