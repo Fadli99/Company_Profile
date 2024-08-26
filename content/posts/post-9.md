@@ -2,7 +2,7 @@
 title: Toner Kit TK-8309 CMY
 description: "meta description"
 date: 2024-08-13
-image: "/images/posts/TK-8309.png"
+image: "/images/posts/TK-8309CMY.png"
 categories: ["Toner"]
 authors: ["Cango"]
 tags: ["Tinta"]
