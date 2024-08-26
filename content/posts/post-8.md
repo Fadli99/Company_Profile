@@ -10,4 +10,4 @@ draft: false
 ---
 
 Toner Kit 8529 digunakan untuk type Mesin Kyocera TasKalfa 4052/4053ci 
-Link Produk di toko Shopee Kassen Kyocera: bit.ly/3Z0qbvQ
+Link Produk di toko Shopee Kassen Kyocera: https://bit.ly/3Z0qbvQ
